@@ -1,2 +1,2 @@
-# Kumbara_plus
+# Kumbara+
  A moneybox application coded with Flutter.
